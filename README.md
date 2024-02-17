@@ -1,2 +1,2 @@
-# monet-toy-model
-Monet toy model sample codes (for demo)
+# premonets
+Library (gallery) of PREMONETs as lead engagement (premonetization) magnets
